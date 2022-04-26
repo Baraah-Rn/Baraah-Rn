@@ -1,4 +1,4 @@
-### Hi there, I'm Baraah 👋
+### Hi there, I'm Baraah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## A jounier Web-Developer😄
 
 
