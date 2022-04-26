@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Baraah 👋
 
+
+I strongly believe that women should play a huge role in the tech-job market as young women. Therefore, a while ago, I started my journey with HackYourFuture to know what coding is really about and to have a career in IT.
+
+
+You can reach me: https://www.linkedin.com/in/baraah-ranneh/
 <!--
 **Baraah-Rn/Baraah-Rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +27,5 @@ Here are some ideas to get you started:
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+
 [2]: https://www.linkedin.com/in/heinz-martin/
