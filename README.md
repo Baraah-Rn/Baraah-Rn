@@ -1,10 +1,10 @@
 ### Hi there, I'm Baraah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## A jounier Web-Developer😄
+## A Junior Web-Developer😄
 
 
 I strongly believe that women should play a huge role in the tech-job market as young women. Therefore, a while ago, I started my journey with HackYourFuture to know what coding is really about and to have a career in IT.
 
-You can find me on [![LinkedIn][3.2]][3].
+📫 You can find me on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
@@ -22,6 +22,9 @@ You can find me on [![LinkedIn][3.2]][3].
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 [3]: https://www.linkedin.com/in/baraah-ranneh/
+
+
+
 
 <!--
 **Baraah-Rn/Baraah-Rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
